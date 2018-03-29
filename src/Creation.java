@@ -1,6 +1,7 @@
 
 // ИЕРАРХИЯ РАЗМЕРЕНИЙ ОБЪЕКТА
 
+
 public class Creation {
     public static void main (String args[]) {
         Weight creation1 = new Weight(10, 18, 20, 1.025);
